@@ -1,0 +1,5 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+5619;Wipperfürth-Gardeweg;MO_RR;01.01.1898;31.03.2021;13;Gesamt_Messzeitraum;eor;                                                                                                                       
+5619;Wipperfürth-Gardeweg;MO_SH_S;01.01.1898;31.12.2020;53;Gesamt_Messzeitraum;eor;                                                                                                                     
+5619;Wipperfürth-Gardeweg;MO_NSH;01.01.1898;31.12.2020;53;Gesamt_Messzeitraum;eor;                                                                                                                      
+5619;Wipperfürth-Gardeweg;MX_RS;01.01.1898;11.04.2021;366;Gesamt_Messzeitraum;eor;                                                                                                                      

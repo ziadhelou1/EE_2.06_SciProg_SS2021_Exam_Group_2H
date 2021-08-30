@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  5619;Wipperfürth-Kreuzberg                   ;18980601;19541130
+  5619;Wipperfürth-Kreuzberg                   ;19541201;20041130
+  5619;Wipperfürth-Gardeweg                    ;20041201;

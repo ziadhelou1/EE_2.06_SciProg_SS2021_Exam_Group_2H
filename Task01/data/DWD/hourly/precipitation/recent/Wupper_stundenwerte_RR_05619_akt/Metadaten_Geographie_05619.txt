@@ -1,0 +1,4 @@
+Stations_id;Stationshoehe;Geogr.Breite;Geogr.Laenge;von_datum;bis_datum;Stationsname
+  5619;  373.00; 51.1523;  7.4474;18980601;19300930;Wipperfürth-Gardeweg
+  5619;  365.00; 51.1546;  7.4491;19301001;20041130;Wipperfürth-Gardeweg
+  5619;  360.00; 51.1637;  7.4234;20041201;        ;Wipperfürth-Gardeweg

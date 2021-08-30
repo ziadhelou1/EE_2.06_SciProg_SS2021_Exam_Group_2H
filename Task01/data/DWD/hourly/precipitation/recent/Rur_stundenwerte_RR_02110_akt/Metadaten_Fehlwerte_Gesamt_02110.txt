@@ -1,0 +1,2 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+2110;Heinsberg-Schleiden;WRTR;23.01.2020;27.07.2021; - ;WRTR wurde nicht gemessen.;eor;                                                                                                                 

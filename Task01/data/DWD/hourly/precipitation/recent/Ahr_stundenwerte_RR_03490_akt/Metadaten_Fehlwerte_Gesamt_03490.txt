@@ -1,0 +1,4 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Gesamt_Fehlwerte;Beschreibung;eor;                                                                                                              
+3490;Neuenahr, Bad-Ahrweiler;R1;24.01.2020;15.07.2021;966;Gesamt_Messzeitraum;eor;                                                                                                                      
+3490;Neuenahr, Bad-Ahrweiler;RS_IND;24.01.2020;15.07.2021;966;Gesamt_Messzeitraum;eor;                                                                                                                  
+3490;Neuenahr, Bad-Ahrweiler;WRTR;24.01.2020;28.07.2021; - ;WRTR wurde nicht gemessen.;eor;                                                                                                             

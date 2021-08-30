@@ -1,0 +1,4 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5619;Wipperfürth-Kreuzberg;7.45;51.15;365;;19790101;20041130;Schneepegel;Schneehöhenmessung, manuell;eor;
+5619;Wipperfürth-Gardeweg;7.42;51.16;360;;20041201;20210327;Schneepegel;Schneehöhenmessung, manuell;eor;
+generiert: 12.04.2021 --  Deutscher Wetterdienst  --
